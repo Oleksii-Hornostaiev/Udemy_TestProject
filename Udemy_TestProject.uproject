@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{A435B2FC-48EC-D1D2-0227-C9955036B15B}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Udemy_TestProject",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
